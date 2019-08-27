@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Desktop */
+@import url("css/desktop.css");
+
+/* Phone */
+@import url("css/phone.css") only screen and (max-width:320px);
+
+/* Tablet */
+@import url("css/tablet.css") only screen and (min-width:321px) and (max-width:768px);
+
+
+

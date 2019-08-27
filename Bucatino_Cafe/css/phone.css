@@ -1,0 +1,72 @@
+@charset "utf-8";
+#container {
+	width: 100%;
+}
+#logo {
+	height: auto;
+	width: 270px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/small_logo_bucatino.png);
+}
+
+#container #Timetable {
+	display:none
+}
+
+nav {
+	padding-top: 100px;
+}
+nav ul {
+	font-size: 24px;
+}
+nav ul a {
+	padding-right: 0px;
+	width: 97%;
+}
+nav ul li {
+	float: none;
+}
+nav ul li:hover {
+	margin-top: 0px;
+}
+#maincontent {
+	margin-top: 0px;
+	padding: 0px;
+}
+#vision {
+	background-image: none;
+	width: 280px;
+	height: auto;
+	font-size: 16px;
+	line-height: normal;
+	padding-top: 0px;
+}
+.pod {
+	width: 305px;
+}
+.podcontent {
+	height: 180px;
+	width: 302px;
+}
+footer p {
+	margin-left: 5px;
+}
+#facebookTwitter {
+	margin-right: 5px;
+}
+.pod {
+	width: 305px;
+	padding-bottom: 0px;
+}
+.pod h1 {
+	margin-bottom: 0px;
+}
+.podcontent {
+	height: 180px;
+	width: 302px;
+	display: none;
+}
+#news {
+	display: block;
+}
